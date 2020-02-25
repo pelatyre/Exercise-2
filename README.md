@@ -10,7 +10,7 @@ For each problem you need to modify the given notebook, and then push your chang
 
 ## Where to find help
 
-If you're having trouble, please remember you can
+**_If you're having trouble, please remember you can_**
 
 - Come to the work sessions on Thursday and/or Friday for help from the course assistants
 - Check out [the hints for this week's exercise](https://geo-python.github.io/site/lessons/L2/exercise-2.html) on the course webpage
